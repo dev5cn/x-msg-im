@@ -51,6 +51,8 @@
 
 * 开放联盟`open federation`
 
+![img](https://github.com/dev5cn/x-msg-msc/raw/master/img/multi-domain.svg?sanitize=true)
+
 <br/>
 <br/>
 
