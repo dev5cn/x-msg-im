@@ -49,6 +49,8 @@
 
 * 文件与对象存储
 
+* <font color="blue">试验性地支持ipfs(星际文件系统)</font>
+
 * 开放联盟`open federation`
 
 ![img](https://github.com/dev5cn/x-msg-msc/raw/master/img/multi-domain.svg?sanitize=true)
