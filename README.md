@@ -49,7 +49,7 @@
 
 * 文件与对象存储
 
-* <font color="blue">试验性地支持ipfs(星际文件系统)</font>
+* <dt>试验性地支持ipfs(星际文件系统)</dt>
 
 * 开放联盟`open federation`
 
