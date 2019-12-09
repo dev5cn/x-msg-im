@@ -47,7 +47,7 @@
 
 * 多人会话, 万人群组
 
-* 文件与对象存储, <aside class="alert alert-info">试验性地支持ipfs(星际文件系统)</aside>
+* 文件与对象存储, 试验性地支持ipfs(星际文件系统)
 
 * 开放联盟`open federation`
 
