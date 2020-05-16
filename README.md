@@ -68,8 +68,6 @@
 <br/>
 <br/>
 
-X-MSG-IM处在早期开发阶段, 我们乐意收集各种需求和建议. 
-
 更新信息请移步至: http://www.dev5.cn/x_msg_im/
 
 QQ group: 721779037
